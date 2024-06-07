@@ -1,4 +1,4 @@
-![Web Developer](https://codepem.com/_next/image?url=%2Fstatic%2FdefaultProjectFeature.png&w=1200&q=75)
+![Web Developer](https://academy.avast.com/hs-fs/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png?width=1200&name=Hacker-Hero-a1.png)
 
 ### Hi there 👋, I'm Tonmoy Ahamed
 
