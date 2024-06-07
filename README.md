@@ -11,7 +11,7 @@
 ## 🚀 About Me
 Aspiring web developer with a passion for learning and creating. I actively expand my knowledge through coursework, self-study, and hands-on projects. I stay updated with the latest industry trends and best practices in programming languages, frameworks, and design principles. I approach every opportunity with enthusiasm and a growth mindset, aiming to make a meaningful impact in the digital landscape.
 <hr>
-## 🧑‍💻 Skills $ Experiance:
+## 🧑‍💻 Skills & Experiance: <br>
 ✅ HTML <br>
 ✅ CSS <br>
 ✅ BootStrap <br>
@@ -29,12 +29,14 @@ Aspiring web developer with a passion for learning and creating. I actively expa
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love exploring different cuisines and trying new recipes 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KMTonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonmoy-ahamed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tasrikahamed2009//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TasrikAhamed25) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy&show_icons=true&count_private=true)  
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=KMTonmoy)  
