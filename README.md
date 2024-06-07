@@ -11,12 +11,13 @@ Skills: HTML / CSS Bootstrap / TailwindCSS / JavaScript / React.Js Node.Js / Mon
 - 👯 I’m looking to collaborate on Innovative web development projects that solve real-world problems 
 - 🤔 I’m looking for help with Enhancing user interface design for better usability and accessibility & Optimizing performance and scalability of applications 
 - 💬 Ask me about Web development, front-end frameworks, and responsive design 
-- 📫 How to reach me: Email: tonmoyahamed2009@gmail.com LinkedIn: www.linkedin.com/in/tonmoy-ahamed 
+- 📧 Email me: tonmoyahamed2009@gmail.com
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/tonmoy-ahamed 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love exploring different cuisines and trying new recipes 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KMTonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonmoy-ahamed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tasrikahamed2009//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TasrikAhamed25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>]((+880) 1731158705)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KMTonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonmoy-ahamed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tasrikahamed2009//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TasrikAhamed25)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'> (+880) 1731158705  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/anuraghazra/github-readme-stats)
 
