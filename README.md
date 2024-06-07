@@ -31,11 +31,9 @@ Aspiring web developer with a passion for learning and creating. I actively expa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy&repo=https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy=contribs,prs)
 
  
-![Anurag's GitHub stats](https://camo.githubusercontent.com/7a14b397d213bc52578b9089d1ec02e3dbd77783a82966d0f96c78ba3d489875/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c/api?username=KMTonmoy)
-
  ## ☕ Connect with me! <br>
 
 [<img src='https://github.com/shovoalways/shovoalways/raw/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277) 
