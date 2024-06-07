@@ -30,7 +30,9 @@ Aspiring web developer with a passion for learning and creating. I actively expa
 - ⚡ Fun fact: I love exploring different cuisines and trying new recipes 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy_repo=https://github.com/anuraghazra/github-readme-stats)
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy)
 
  ## ☕ Connect with me! <br>
