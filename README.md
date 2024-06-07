@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Tonmoy Ahamed
 
 <p>
-  👑 I am Web Developer
+  👑 I am Web Developer <br>
   🖋️ Love to write Code <br>
   🎤 Like to share mt Knowlage <br>
 </p>
@@ -33,9 +33,12 @@ Aspiring web developer with a passion for learning and creating. I actively expa
 
 
 
-[<img src='https://camo.githubusercontent.com/d7d0f5ef713c40161bd3f23076ce9e4efcfeecfabbb8661dba7e9f3971c3fc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b' alt='Javascript' height='40'>](https://github.com/KMTonmoy)  
+ ## ☕ Connect with me! <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KMTonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonmoy-ahamed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tasrikahamed2009//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TasrikAhamed25) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonmoy-ahamed/)  
+[<img src='https://github.com/shovoalways/shovoalways/raw/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277) 
+[<img src='https://github.com/shovoalways/shovoalways/raw/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tasrikahamed2009//) 
+[<img src='https://github.com/shovoalways/shovoalways/raw/main/img/linkedin.png?raw=true' alt='twitter' height='40'>](https://twitter.com/https://x.com/TasrikAhamed25) 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy&show_icons=true&count_private=true)  
