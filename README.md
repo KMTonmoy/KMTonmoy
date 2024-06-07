@@ -1,4 +1,4 @@
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://codepem.com/_next/image?url=%2Fstatic%2FdefaultProjectFeature.png&w=1200&q=75)
 
 ### Hi there 👋, I'm Tonmoy Ahamed
 
