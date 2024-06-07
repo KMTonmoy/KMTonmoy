@@ -51,7 +51,7 @@ I love exploring different cuisines and trying new recipes
 
 [<img src='https://github.com/shovoalways/shovoalways/raw/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088205996277) [<img src='https://github.com/shovoalways/shovoalways/raw/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonmoy-ahamed/) [<img src='https://github.com/shovoalways/shovoalways/raw/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tasrikahamed2009//) [<img src='https://github.com/shovoalways/shovoalways/raw/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/https://x.com/TasrikAhamed25)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/KMTonmoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy)](https://github.com/KMTonmoy/github-readme-stats&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy&show_icons=true&count_private=true&theme=radical)  
 
