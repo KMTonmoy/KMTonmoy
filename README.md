@@ -55,4 +55,4 @@ I love exploring different cuisines and trying new recipes
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy&show_icons=true&count_private=true&theme=radical)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=KMTonmoy)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KMTonmoy)  
