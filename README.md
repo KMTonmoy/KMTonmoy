@@ -36,13 +36,12 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 - 👯 **Mentoring junior developers**
 - 🤔 **Solving complex scalability challenges**
 
-> *"I don't just write code; I engineer solutions that drive business value and exceed user expectations."*
+> *I don't just write code; I engineer solutions that drive business value and exceed user expectations.*
 
 ---
 
 ## 🛠️ 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘 𝐒𝐓𝐀𝐂𝐊
 
-### 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃 𝐄𝐂𝐎𝐒𝐘𝐒𝐓𝐄𝐌
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -55,24 +54,18 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-
-### 𝐁𝐀𝐂𝐊𝐄𝐍𝐃 𝐄𝐂𝐎𝐒𝐘𝐒𝐓𝐄𝐌
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=json&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-### 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄 𝐒𝐘𝐒𝐓𝐄𝐌𝐒
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-   
-### 𝐃𝐄𝐕𝐎𝐏𝐒 & 𝐂𝐋𝐎𝐔𝐃
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -82,8 +75,6 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-  
-### 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓 𝐓𝐎𝐎𝐋𝐒
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -99,24 +90,7 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
----
-
-## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 & 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘
-
-<div align="center">
-
-![Tonmoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KMTonmoy&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KMTonmoy&layout=compact&theme=radical&hide_border=true&custom_title=𝐌𝐎𝐒𝐓 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KMTonmoy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&sideNums=FF6C37&sideLabels=FF6C37)
-
-![Snake Game](https://github.com/KMTonmoy/KMTonmoy/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
+ 
 
 ## 🏆 𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒
 
@@ -141,7 +115,7 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 
 ### 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐒𝐊𝐈𝐋𝐋𝐒 𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒
 - **Frontend Mastery**: React, Next.js, Vue, Angular, TypeScript
-- **Backend Expertise**: Node.js, Python, PHP, REST/GraphQL APIs
+- **Backend Expertise**: Node.js, Python, REST/GraphQL APIs
 - **Database Management**: MongoDB, PostgreSQL, MySQL
 - **DevOps & Cloud**: Docker, Kubernetes, AWS, GCP, Azure
 - **Architecture**: Microservices, Serverless, Monolithic to Microservices migration
@@ -184,16 +158,7 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 - 🚴 **Cycling** for fitness and mental clarity
 - 🌍 **Traveling** to experience different cultures
 - ☕ **Coffee Connoisseur** who believes code and coffee are the perfect pair
-
----
-
-## 📈 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘 𝐆𝐑𝐀𝐏𝐇
-
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KMTonmoy&theme=react-dark&hide_border=true&area=true)
-
----
-
+ 
 <div align="center">
 
 ## 🤝 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓!
@@ -204,7 +169,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Tonmoy_Ahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonmoy-ahamed)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-My_Work-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://tonmoy-pro.vercel.app/)
 
-📞 **+880 1342141562** | 📍 **Dhaka, Bangladesh**
+📞 **+880 1342141562** | 📍 **Pabna, Bangladesh**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KMTonmoy&color=FF6C37&style=for-the-badge&label=PROFILE+VIEWS)
 
