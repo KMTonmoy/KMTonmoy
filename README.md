@@ -121,25 +121,6 @@ I am a **Senior Full-Stack Developer** with extensive experience in architecting
 - **Architecture**: Microservices, Serverless, Monolithic to Microservices migration
 
 ---
-
-## 📂 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒
-
-### 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐒𝐚𝐚𝐒 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦
-- **Tech Stack**: React, Node.js, MongoDB, AWS, Docker
-- **Features**: Multi-tenancy, Real-time analytics, Payment integration
-- **Impact**: Served 10K+ users with 99.9% uptime
-
-### 𝐄-𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
-- **Tech Stack**: Next.js, Python, PostgreSQL, Kubernetes
-- **Features**: Inventory management, Order processing, Recommendation engine
-- **Impact**: Handled 5K+ concurrent users during peak sales
-
-### 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐨𝐨𝐥
-- **Tech Stack**: Vue.js, Socket.io, Firebase
-- **Features**: Live editing, Video conferencing, File sharing
-- **Impact**: Reduced meeting times by 40% for client teams
-
----
  
 ## 🎯 𝐅𝐔𝐍 𝐅𝐀𝐂𝐓𝐒 & 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐒
 
